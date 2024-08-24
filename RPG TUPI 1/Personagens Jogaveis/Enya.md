@@ -12,7 +12,6 @@
 #### Façanhas:
 -  1
 - 2
-
 #### Magias (Apenas se houver):
 - 1
 - 2
@@ -55,9 +54,8 @@
 - [ ] *4*
 ## Consequências
 ---
-- *Consequência Suave:*
-- *Consequência Moderada:*
-- *Consequência Severa:*
+- [ ] *Consequência Suave:*
+- [ ] *Consequência Moderada:*
+- [ ] *Consequência Severa:*
 ## Extras
 ---
-

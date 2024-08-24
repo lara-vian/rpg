@@ -54,9 +54,9 @@
 - [ ] *4*
 ## Consequências
 ---
-- *Consequência Suave:*
-- *Consequência Moderada:*
-- *Consequência Severa:*
+- [ ] *Consequência Suave:*
+- [ ] *Consequência Moderada:*
+- [ ] *Consequência Severa:*
 ## Extras
 ---
 
