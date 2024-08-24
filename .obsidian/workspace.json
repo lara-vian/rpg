@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "29b8389a2881e68c",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ce8b33580d294f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ab84077634d991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73c9665c771e02e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a989656d85e10ee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0473874d49eccc79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9842d4fc8c9d3a0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbbfd2253277cc66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e2921678001d32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a4accf74c28e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7edb9aacf5fee79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27c91974b8691ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dc107d517612912",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65658e1da0d27224",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d6ab84077634d991",
+  "lastOpenFiles": [
+    "RPG TUPI 1/Personagens Jogaveis/Enya.md",
+    "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
+    "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
+    "RPG TUPI 1/Personagens Jogaveis/Rhaenyra.md",
+    "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
+    "README.md"
+  ]
+}

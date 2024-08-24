@@ -13,8 +13,8 @@
 - consegue convencer muita gente a fazer o que ela quer
 - lendo os livros consegue usar magias diversas
 #### Magias (Apenas se houver):
-- 1
-- 2
+- 
+- 
 ---
 ## Perícias
 ### Excepcionais
@@ -38,16 +38,25 @@
 ## Estresse
 ----
 ### Físico
- 1 - [ ] 2 - [] 3 - [] 4 -[] 
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
 ### Mental
-1 - [] 2 -[] 3 -[] 4 -[]
-### Magico
-
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
+### Magico (Apenas se houver)
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
 ## Consequências
 ---
-- *Consequência Suave:*
-- *Consequência Moderada:*
-- *Consequência Severa:*
+- [ ] *Consequência Suave:*
+- [ ] *Consequência Moderada:*
+- [ ] *Consequência Severa:*
 ## Extras
 ---
 
