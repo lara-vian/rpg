@@ -7,4 +7,8 @@
 
 ## Como usar esse repo com Obsidian
 1. Baixe o [obsidian](https://obsidian.md/download)
-2. Abra a pasta do repositorio 
+2. Abra a pasta do repositório em `abrir pasta como um cofre`
+3. Confie nos Plugins do autor.
+4. Configure o plugin Git
+	- Escolha um timer para pushs e pulls 
+	- Configure uma mensagem de auto commit padrão
