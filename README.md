@@ -7,4 +7,4 @@
 
 ## Como usar esse repo com Obsidian
 1. Baixe o [obsidian](https://obsidian.md/download)
-2. 
+2. Abra a pasta do repositorio 
