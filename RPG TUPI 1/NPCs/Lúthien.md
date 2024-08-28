@@ -1,101 +1,62 @@
----
-tags:
-  - rpg
-  - FATE
----
-# Nome :  Lúthien
-
-## Descrição: A ultima das bruxas da floresta.
-
----
-
-## Aspectos
-1.  
-2. 
-3. 
-4.  
-5. 
-
----
-
-## Pontos
-
-- Recarga: 
-- Pontos de Destino:
-
-## Perícias
----
-### Excepcional
- - 1
-
-### Ótimo
-
- - 2
-
-### Razoável
-- 3
-
-### Regular
-- 4
-
-
-
-## Estresse
-----
-### Físico
- 1 - [] 2 - [] 3 - [] 4 -[] 
-### Mental
-1 - [] 2 -[] 3 -[] 4 -[]# Nome
-
 ## Descrição
 
 ---
-
 ## Aspectos
-1.  
-2. 
+1.  *CONCEITO:* 
+2. *DIFICULDADE:* 
 3. 
-4.  
+4. 
 5. 
-
 ---
-
-## Pontos
-
-- Recarga: 
-- Pontos de Destino:
-
+## Façanhas e Magias
+#### Façanhas:
+ - 
+ - 
+#### Magias:
+ - 
+ - 
+---
 ## Perícias
+### Excepcionais
+ - *Pericia:*
+### Ótimas
+ - *Pericia:*
+ - *Pericia:*
+### Razoáveis
+ - *Pericia:*
+ - *Pericia:* 
+ - *Pericia:*
+### Regulares
+ - *Pericia:*
+ - *Pericia:*
+ - *Pericia:*
+ - *Pericia:*
 ---
-### Excepcional
- - 1
-
-### Ótimo
-
- - 2
-
-### Razoável
-- 3
-
-### Regular
-- 4
-
-
-
+## Pontos
+- Recarga: 3
+- Pontos de Destino: 3
+----
 ## Estresse
 ----
 ### Físico
- 1 - [] 2 - [] 3 - [] 4 -[] 
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
 ### Mental
-1 - [] 2 -[] 3 -[] 4 -[]
-
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
+### Magico (Apenas se houver)
+- [ ] *1*
+- [ ] *2*
+- [ ] *3*
+- [ ] *4*
 ## Consequências
 ---
-- Consequência Suave
-- Consequência Moderada
-- Consequência Severa
-## Façanhas 
----
+- [ ] *Consequência Suave:*
+- [ ] *Consequência Moderada:*
+- [ ] *Consequência Severa:*
 ## Extras
 ---
-

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha Base FATE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficha Base FATE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficha Base FATE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficha Base FATE.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0473874d49eccc79",
+  "active": "e045067bd99e0d26",
   "lastOpenFiles": [
     "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
-    "Ficha Base FATE.md",
+    "RPG TUPI 1/NPCs/Rudrik.md",
+    "RPG TUPI 1/NPCs/Demônio do campo de batalha.md",
+    "RPG TUPI 1/NPCs/Lúthien.md",
+    "Fichas/Ficha Base FATE.md",
+    "Fichas",
     "RPG TUPI 1/Personagens Jogaveis/Enya.md",
     "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
     "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
