@@ -11,8 +11,12 @@
             "id": "e045067bd99e0d26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ficha Base FATE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ficha Base FATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ficha Base FATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ficha Base FATE.md"
+              }
             }
           }
         ]
@@ -138,10 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e045067bd99e0d26",
+  "active": "0473874d49eccc79",
   "lastOpenFiles": [
-    "ficha padrão.md",
     "RPG TUPI 1/Personagens Jogaveis/Bjorn, o Trapaceiro.md",
+    "Ficha Base FATE.md",
     "RPG TUPI 1/Personagens Jogaveis/Enya.md",
     "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
     "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
