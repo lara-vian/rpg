@@ -2,11 +2,11 @@
 
 ---
 ## Aspectos
-1. *CONCEITO:* Guerreiro fitness influencer. Apaixonado por seus músculos, ele desenvolveu uma fórmula em pó que o ajuda ter energia e a ganhar massa muscular. Ridicularizado por quem diz que ele não é um "guerreiro de verdade" por ligar demais pra sua aparência, ele partiu em uma jornada para provar que estão errados, enfrentando qualquer perigo enquanto promove seus métodos de treino e seu produto mágico: pó de wei
-2. *DIFICULDADE:* Confiante demais nos seus músculos, acha que consegue resolver qualquer problema com eles. Não é muito ágil ou flexível.
-3. Tem o instinto de proteger os mais fracos e menores
-4.  
-5. 
+1. *CONCEITO:* Guerreiro fitness influencer, apaixonado por seus músculos, busca provar seu valor como guerreiro enquanto promove seu produto e seus métodos de treino.
+2. *DIFICULDADE:* Confiante demais nos seus músculos, acha que consegue resolver qualquer problema com eles.
+3. Vaidoso e confiante, dificil de se abalar ou irritar
+4. Tem um instinto protetor em relação aos mais fracos e vulneráveis
+5. Inventou um pó mágico que aumenta sua energia e potencializa seu desempenho em atividades físicas: o "pó de wei"
 ---
 ## Façanhas 
 #### Façanhas:
@@ -18,20 +18,20 @@
 - 2
 ---
 ## Perícias
-### Excepcionais
- - *Pericia:*
+### Excepcionais +4
+ - *Pericia:*-  Vigor
 ### Ótimas
- - *Pericia:*
- - *Pericia:*
+ - *Pericia:* Lutar
+ - *Pericia:* Vontade
 ### Razoáveis
- - *Pericia:*
- - *Pericia:* 
- - *Pericia:*
+ - *Pericia:* Comunicação
+ - *Pericia:* Contatos
+ - *Pericia:* Atletismo
 ### Regulares
- - *Pericia:*
- - *Pericia:*
- - *Pericia:*
- - *Pericia:*
+ - *Pericia:* Empatia
+ - *Pericia:* Enganar
+ - *Pericia:* Ofícios
+ - *Pericia:* Recursos
 ---
 ## Pontos
 - Recarga:  3
