@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
+                "file": "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
+                "file": "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
+                "file": "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md"
+                "file": "RPG TUPI 1/Personagens Jogaveis/Gandalg.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e045067bd99e0d26",
   "lastOpenFiles": [
+    "RPG TUPI 1/Personagens Jogaveis/Rhaenyra.md",
+    "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
     "README.md",
     "Tutorial/Captura de Tela 2024-08-28 às 09.14.24 - cópia.png",
     "Tutorial/Captura de Tela 2024-08-28 às 09.14.12 - cópia.png",
@@ -164,8 +166,6 @@
     "Fichas",
     "RPG TUPI 1/Personagens Jogaveis/Enya.md",
     "RPG TUPI 1/Personagens Jogaveis/Gandalg.md",
-    "RPG TUPI 1/Personagens Jogaveis/Mike Weine.md",
-    "RPG TUPI 1/Personagens Jogaveis/Rhaenyra.md",
     "RPG TUPI 1/Sinopse.md"
   ]
 }
